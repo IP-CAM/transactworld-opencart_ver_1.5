@@ -1,12 +1,12 @@
-# TransactWorld OpenCart installation guide
+# TransactWorld OpenCart Version 1.5 installation guide
 
 1.) Go to your opencart root folder and paste the “admin” and “catalog” folder in your root directory.
 
-2.) login to your Opencart admin panel, in menu bar goto Extensions=>Payments.
+2.) Login to your Opencart admin panel, in menu bar goto Extensions=>Payments.
 
-3.) Locate the "Paymentz Online Payment" and click on "install" button.
+3.) Locate the "TransactWorld Online Payment" and click on "install" button.
 
-4.) Now, click on the "Edit" button for configuration settings of paymentz gateway.
+4.) Now, click on the "Edit" button for configuration settings of TransactWorld gateway.
 
 5.) Once configured save button.
 ### Note: 
@@ -20,5 +20,5 @@
  3.) Order Status Pending   : Means on Pending Transaction
  
  
- 6.) After configuring the above five steps visit your website [front end office] to see the Paymentz method on the checkout page.
+ 6.) After configuring the above five steps visit your website [front end office] to see the TransactWorld method on the checkout page.
 
